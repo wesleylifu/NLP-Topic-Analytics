@@ -1,4 +1,4 @@
-This project is to build a text classification model that can classify new messages into the given topics to compete in Codalab open source competition. 
+This project is to build a text classification model that can classify new messages into the given topics to compete in Codalab competition. 
 
 ## Data Preprocessing: 
 build Custom Functions for Preprocessing and Feature Engineering to achieve accuracy excellence against a manually labled dataset with throusnads of finance messages
